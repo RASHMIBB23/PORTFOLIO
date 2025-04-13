@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Rock+Salt&family=Underdog&display=swap");
+
+.sidebar {
+  background-color: red;
+  width: 10vw;
+  font-family: "Rock Salt", cursive;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+.main {
+  background-color: yellow;
+  width: 80vw;
+}
+.container {
+  display: flex;
+}
